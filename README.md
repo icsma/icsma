@@ -20,11 +20,7 @@ I specialize in designing and managing **cloud-native environments**, implementi
 
 # ☁️ Cloud & Infrastructure
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Linux](https://skillicons.dev/icons?i=linux)
+![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux)
 
 Experience with:
 
@@ -38,11 +34,7 @@ Experience with:
 
 # 🔁 DevOps & CI/CD
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Azure](https://skillicons.dev/icons?i=azure)
-![Docker](https://skillicons.dev/icons?i=docker)
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,azure,docker)
 
 Tools & Platforms:
 
@@ -78,7 +70,8 @@ Tools & Platforms:
 
 # 🌎 Connect With Me
 
-LinkedIn: ([add your LinkedIn](https://www.linkedin.com/in/ismaelcabraldesouza/))
+💼 LinkedIn:
+https://www.linkedin.com/in/ismaelcabraldesouza/
 
 ---
 
