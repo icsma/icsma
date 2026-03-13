@@ -1,70 +1,85 @@
-# Hi 👋 I'm Ismael Souza
+# 👋 Hi, I'm Ismael Souza
 
-☁️ DevOps / SRE Engineer passionate about building scalable cloud infrastructure and automating development workflows.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF\&size=28\&center=true\&vCenter=true\&width=800\&lines=DevOps+Engineer;AWS+Certified+Professional;Cloud+Infrastructure+Specialist;Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
 
-I work with cloud platforms and DevOps practices to design, automate and manage reliable infrastructure. My focus is on Infrastructure as Code, CI/CD pipelines and containerized applications running in the cloud.
+☁️ DevOps / SRE Engineer passionate about building scalable cloud infrastructure and automating modern development workflows.
 
----
-
-## 🚀 About Me
-
-* ☁️ DevOps Engineer focused on cloud infrastructure and automation
-* 🧠 Strong experience with AWS services and Infrastructure as Code
-* 🔁 Passionate about CI/CD, automation and scalable architectures
-* 🐳 Experience building and deploying containerized applications
-* 📚 Always learning more about Cloud, SRE and Platform Engineering
+I specialize in designing and managing **cloud-native environments**, implementing **Infrastructure as Code**, and building **CI/CD pipelines** to deliver reliable and scalable systems.
 
 ---
 
-## ☁️ Cloud & Infrastructure
+# 🏅 Certifications
 
-* AWS (ECS, ECR, S3, IAM, VPC, Lambda, RDS)
+✔ AWS Certified Cloud Practitioner
+✔ AWS Certified Solutions Architect – Associate
+✔ AWS Certified Developer – Associate
+
+**3x AWS Certified**
+
+---
+
+# ☁️ Cloud & Infrastructure
+
+![AWS](https://skillicons.dev/icons?i=aws)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+Experience with:
+
+* AWS (ECS, ECR, Lambda, S3, IAM, VPC, RDS)
 * Infrastructure as Code with Terraform
 * CloudFormation
-* Networking and cloud architecture
+* Cloud architecture & networking
 * Security and IAM best practices
 
 ---
 
-## 🛠️ DevOps & Tools
+# 🔁 DevOps & CI/CD
 
-* Docker
-* Git & GitHub
-* Linux
-* Kubernetes (learning and building labs)
-* Observability concepts
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Docker](https://skillicons.dev/icons?i=docker)
 
----
-
-## 🔁 CI/CD
+Tools & Platforms:
 
 * GitLab CI/CD
 * AWS CodePipeline
 * Azure DevOps
-
-Building automated pipelines to deploy infrastructure and applications reliably.
+* Docker containerization
+* Automated infrastructure deployments
 
 ---
 
-## 📚 What I Like to Build
+# 🚀 What I Like Building
 
 * Cloud Infrastructure with Infrastructure as Code
-* Automated CI/CD pipelines
-* Containerized workloads running on cloud platforms
-* DevOps tooling and automation scripts
+* Automated DevOps pipelines
+* Containerized applications
+* Cloud automation solutions
+* Scalable and resilient architectures
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=icsma\&show_icons=true)
-
----
-
-## 🌎 Connect With Me
-
-* LinkedIn: (add your LinkedIn here)
+![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=icsma\&show_icons=true\&theme=tokyonight)
 
 ---
 
-⭐ Always exploring new technologies and improving my skills in Cloud, DevOps and SRE practices.
+# 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icsma\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🌎 Connect With Me
+
+LinkedIn: ([add your LinkedIn](https://www.linkedin.com/in/ismaelcabraldesouza/))
+
+---
+
+⭐ Always exploring new technologies and improving my skills in **Cloud Computing, DevOps and Site Reliability Engineering**.
